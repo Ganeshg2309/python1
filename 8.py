@@ -5,12 +5,6 @@ print(s1)
 start=int(s1[0])
 end=int(s1[1])
 
-print(type(start))
-print(type(end))
-
-print(start)
-print(end)
-
 
 print(type(start))
 for j in range(start,end,1):
